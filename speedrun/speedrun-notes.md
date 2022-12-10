@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Notes
 
 Speedrun notes are helpful when learning a run, or if a run is more complex and not that easy to memorize.

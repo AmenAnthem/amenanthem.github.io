@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Savefiles
 
 This site contains links to AmenAnthem's personal savefiles.

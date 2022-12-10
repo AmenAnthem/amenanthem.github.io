@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Speedrun
 
 Speedrunning is the act of playing a video game with the intent of completing it as fast as possible, for the purposes
