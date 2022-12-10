@@ -35,4 +35,4 @@ navigation:
       - name: Notes
         link: ./speedrun-notes.html
   - name: Savefiles
-    link: ./savefiles.md
+    link: ./savefiles.html
