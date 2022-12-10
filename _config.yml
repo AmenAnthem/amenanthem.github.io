@@ -1,2 +1,38 @@
-title: AmenAnthem's homepage
+title: AmenAnthem
+description: A collection of links and resources provided by AmenAnthem
+
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: auto/light/dark
+logo: /assets/img/mountain_logo.png
+favicon: true
+
+platforms:
+  - name: GitHub
+    icon: <i class="fab fa-github"></i>
+    link: https://github.com/AmenAnthem
+  - name: YouTube
+    icon: <i class="fab fa-youtube"></i>
+    link: https://www.youtube.com/channel/UCUqeIYAvwp35_SmaH19eg8w
+  - name: Twitch
+    icon: <i class="fab fa-twitch"></i>
+    link: https://www.twitch.tv/amenanthem
+  - name: speedrun.com
+    icon: <i class="fas fa-trophy"></i>
+    link: https://www.speedrun.com/user/AmenAnthem
+
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: About
+    link: ./about.html
+  - name: Speedrun
+    link: ./speedrun/speedrun.html
+    sublist:
+      - name: PBs
+        link: ./speedrun/speedrun-pbs.html
+      - name: Splits
+        link: ./speedrun/speedrun-livesplit-splits.html
+      - name: Notes
+        link: ./speedrun/speedrun-notes.html
+  - name: Savefiles
+    link: ./savefiles/savefiles.md
