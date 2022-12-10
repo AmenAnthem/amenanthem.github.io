@@ -2,7 +2,7 @@ title: AmenAnthem
 description: A collection of links and resources provided by AmenAnthem
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-color-scheme: auto/light/dark
+color-scheme: dark
 logo: /assets/img/mountain_logo.png
 favicon: true
 
