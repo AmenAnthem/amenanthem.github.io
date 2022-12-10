@@ -26,13 +26,13 @@ navigation:
   - name: About
     link: ./about.html
   - name: Speedrun
-    link: ./speedrun/speedrun.html
+    link: ./speedrun.html
     sublist:
       - name: PBs
-        link: ./speedrun/speedrun-pbs.html
+        link: ./speedrun-pbs.html
       - name: Splits
-        link: ./speedrun/speedrun-livesplit-splits.html
+        link: ./speedrun-livesplit-splits.html
       - name: Notes
-        link: ./speedrun/speedrun-notes.html
+        link: ./speedrun-notes.html
   - name: Savefiles
-    link: ./savefiles/savefiles.md
+    link: ./savefiles.md
