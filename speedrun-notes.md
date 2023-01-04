@@ -14,6 +14,7 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 ## PlayStation
 
 - [Chocobo Racing](https://github.com/AmenAnthem/speedrun-notes-chocobo-racing)
+- [Excalibur 2555 A.D.](https://github.com/AmenAnthem/speedrun-notes-excalibur-2555-ad)
 - [Re-Loaded](https://github.com/AmenAnthem/speedrun-notes-reloaded)
 - [Spider: The video game](https://github.com/AmenAnthem/speedrun-notes-spider)
 - [Vagrant Story](https://github.com/AmenAnthem/speedrun-notes-vagrant-story)
