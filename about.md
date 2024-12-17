@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-AmenAnthem is a senior software engineer from Austria, Tyrol who enjoys speedrunning in his spare time.
+AmenAnthem is a senior software engineer from Austria, Tyrol, who enjoys speedrunning in his spare time.
 
 ## Contact
 
