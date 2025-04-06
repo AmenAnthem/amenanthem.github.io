@@ -20,7 +20,7 @@ platforms:
     icon: <i class="fas fa-trophy"></i>
     link: https://www.speedrun.com/user/AmenAnthem
   - name: therun.gg
-    icon: <i class="fab fa-registered"></i>
+    icon: <i class="fas fa-registered"></i>
     link: https://therun.gg/AmenAnthem
 
 navigation:
