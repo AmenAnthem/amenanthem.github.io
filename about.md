@@ -16,3 +16,4 @@ AmenAnthem is a senior software engineer from Austria, Tyrol, who enjoys speedru
 - [YouTube](https://www.youtube.com/channel/UCUqeIYAvwp35_SmaH19eg8w)
 - [Twitch](https://www.twitch.tv/amenanthem)
 - [speedrun.com](https://www.speedrun.com/user/AmenAnthem)
+- [therun.gg](https://therun.gg/AmenAnthem)
