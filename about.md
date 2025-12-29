@@ -6,6 +6,8 @@ layout: default
 
 AmenAnthem is a senior software engineer from Austria, Tyrol, who enjoys speedrunning in his spare time.
 
+Pronouns: he/him
+
 ## Contact
 
 [amenanthem@pm.me](mailto:amenanthem@pm.me)
