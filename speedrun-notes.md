@@ -14,8 +14,11 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 ## PlayStation
 
 - [Brahma Force](https://github.com/AmenAnthem/speedrun-notes-brahma-force)
+- [Chaos Break](https://github.com/AmenAnthem/speedrun-notes-chaos-break)
 - [Chocobo Racing](https://github.com/AmenAnthem/speedrun-notes-chocobo-racing)
 - [Excalibur 2555 A.D.](https://github.com/AmenAnthem/speedrun-notes-excalibur-2555-ad)
+- [Exector](https://github.com/AmenAnthem/speedrun-notes-exector)
+- [Krazy Ivan](https://github.com/AmenAnthem/speedrun-notes-krazy-ivan)
 - [Re-Loaded](https://github.com/AmenAnthem/speedrun-notes-reloaded)
 - [Spider: The video game](https://github.com/AmenAnthem/speedrun-notes-spider)
 - [Vagrant Story](https://github.com/AmenAnthem/speedrun-notes-vagrant-story)
