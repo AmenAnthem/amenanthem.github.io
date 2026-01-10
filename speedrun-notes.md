@@ -16,6 +16,7 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 - [Brahma Force](https://github.com/AmenAnthem/speedrun-notes-brahma-force)
 - [Chaos Break](https://github.com/AmenAnthem/speedrun-notes-chaos-break)
 - [Chocobo Racing](https://github.com/AmenAnthem/speedrun-notes-chocobo-racing)
+- [Dino Crisis 2](https://github.com/AmenAnthem/speedrun-notes-dino-crisis-2)
 - [Excalibur 2555 A.D.](https://github.com/AmenAnthem/speedrun-notes-excalibur-2555-ad)
 - [Exector](https://github.com/AmenAnthem/speedrun-notes-exector)
 - [Krazy Ivan](https://github.com/AmenAnthem/speedrun-notes-krazy-ivan)
