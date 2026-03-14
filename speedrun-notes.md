@@ -21,6 +21,7 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 - [Exector](https://github.com/AmenAnthem/speedrun-notes-exector)
 - [Krazy Ivan](https://github.com/AmenAnthem/speedrun-notes-krazy-ivan)
 - [Re-Loaded](https://github.com/AmenAnthem/speedrun-notes-reloaded)
+- [Speed Power Gunbike](https://github.com/AmenAnthem/speedrun-notes-speed-power-gunbike)
 - [Spider: The video game](https://github.com/AmenAnthem/speedrun-notes-spider)
 - [Vagrant Story](https://github.com/AmenAnthem/speedrun-notes-vagrant-story)
 
