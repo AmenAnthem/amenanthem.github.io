@@ -20,6 +20,7 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 - [Dino Crisis 2](https://github.com/AmenAnthem/speedrun-notes-dino-crisis-2)
 - [Excalibur 2555 A.D.](https://github.com/AmenAnthem/speedrun-notes-excalibur-2555-ad)
 - [Exector](https://github.com/AmenAnthem/speedrun-notes-exector)
+- [GUNNM: Martian Memory](https://github.com/AmenAnthem/speedrun-notes-gunnm-martian-memory)
 - [Krazy Ivan](https://github.com/AmenAnthem/speedrun-notes-krazy-ivan)
 - [Re-Loaded](https://github.com/AmenAnthem/speedrun-notes-reloaded)
 - [Speed Power Gunbike](https://github.com/AmenAnthem/speedrun-notes-speed-power-gunbike)
