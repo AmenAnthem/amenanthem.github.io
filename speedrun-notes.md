@@ -26,6 +26,7 @@ Speedrun notes are helpful when learning a run, or if a run is more complex and 
 - [Re-Loaded](https://github.com/AmenAnthem/speedrun-notes-reloaded)
 - [Speed Power Gunbike](https://github.com/AmenAnthem/speedrun-notes-speed-power-gunbike)
 - [Spider: The video game](https://github.com/AmenAnthem/speedrun-notes-spider)
+- [Spriggan: Lunar Verse](https://github.com/AmenAnthem/speedrun-notes-spriggan-lunar-verse)
 - [Vagrant Story](https://github.com/AmenAnthem/speedrun-notes-vagrant-story)
 
 ## PSP
